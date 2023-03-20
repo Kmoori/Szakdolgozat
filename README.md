@@ -1,1 +1,3 @@
-# Szakdolgozat
+# Ipari robot karbantartási és üzemeltetési folyamatának támogatása kiterjesztettvalóság alkalmazásával
+
+A Projekt célja az volt, hogy egy olyan kiterjesztett valóság alkalmazást hozzak létre, amely támogatja az ipari robot karbantartási és üzemeltetési folyamatokat. Az alkalmazás jelenleg rendelkezik egy host és egy kliens oldallal, amelyek funkciójukban különböznek. Az alkalmazás kliens vagy eszköz oldalát Androidos telefonokon és tableteken futtatjuk és feladata a Fanuc LR Mate 200iD/4S robotkart felismerni és követni a valós térben és ezt követően megjeleníteni egy objektumot a robot körül a host oldalról kapott koordináta értékek alapján. A szoftver másik, vagyis a host vagy számítógép (PC) oldal feladata a robot user frame koordináta x, y és z tengelyeinek értékeinek a beolvasása egy erre a célra létrehozott json adatbázisból, ezután pedig elküldeni egy peer to peer összeköttetésen keresztül a kliens oldalra
