@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.9.3">
+<ModelTarget name="robot_part_bigger" targetId="0730c075d6da4981ac9fdef2d8bfd6d8" version="14.0" toolVersion="10.9.3" bbox="-0.327599 -0.074681 -0.155997 0.070479 0.082969 0.159666" previewImage="0730c075d6da4981ac9fdef2d8bfd6d8_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="robot_part_biggers_assembly" assemblyId="5f588188219b4af0990682dadc6f0e67">
+<Part name="robot_part_bigger" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0289924 -0.0244663 0.398683" rotation="AD: 0.998559 0.0931708 -0.712671 192.114" image="robot_part_bigger_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

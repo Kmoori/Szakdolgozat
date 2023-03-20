@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="robot_part_bigger" motionHint="static" trackingMode="car" optimizeTrackingFor="low_feature_objects"/>
+
+</Tracking>
+
+<Assembly name="robot_part_biggers_assembly" assemblyId="5f588188219b4af0990682dadc6f0e67">
+<Part name="robot_part_bigger" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0289924 -0.0244663 0.398683" rotation="AD: 0.998559 0.0931708 -0.712671 192.114" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

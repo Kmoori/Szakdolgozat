@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.9.3">
+<ModelTarget name="robot_part" targetId="b36ebbce84a74dedbc6b630f0f2d9759" version="14.0" toolVersion="10.9.3" bbox="-0.134670 -0.030138 -0.063860 0.027255 0.033989 0.064542" previewImage="b36ebbce84a74dedbc6b630f0f2d9759_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="robot_parts_assembly" assemblyId="a8fc9fbe1d9046b9917ccee6f7494363">
+<Part name="robot_part" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00247456 -0.00791827 0.178561" rotation="AD: 0.99558 0.138539 -0.936824 192.232" image="robot_part_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

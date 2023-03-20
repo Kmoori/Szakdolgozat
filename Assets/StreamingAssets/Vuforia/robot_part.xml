@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="robot_part" motionHint="static" trackingMode="car" optimizeTrackingFor="low_feature_objects"/>
+
+</Tracking>
+
+<Assembly name="robot_parts_assembly" assemblyId="a8fc9fbe1d9046b9917ccee6f7494363">
+<Part name="robot_part" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00247456 -0.00791827 0.178561" rotation="AD: 0.99558 0.138539 -0.936824 192.232" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sarga_kotel_RGB" size="0.065000 0.099729" />
+    <ImageTarget name="roka_2_masik_RGB" size="0.070000 0.124582" />
+    <ImageTarget name="bari_RGB" size="0.070000 0.107401" />
+  </Tracking>
+</QCARConfig>

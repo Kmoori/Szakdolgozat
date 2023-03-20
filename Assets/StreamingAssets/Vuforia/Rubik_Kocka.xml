@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Rubik_Kocka" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Rubik_Kockas_assembly" assemblyId="630c640fe41a4011959794c2860f368b">
+<Part name="Rubik_Kocka" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0002" translation="0.293107 -0.663593 14.3787" rotation="AD: 0.999246 0.0994055 -0.436941 203.455" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
